@@ -1,0 +1,17 @@
+footer {
+    text-align: center;
+    padding: 25px;
+    background-color: rgba(24, 93, 197, 0.89); /* Cor de fundo do rodapé com opacidade */
+    color: rgb(230, 230, 230); /* Cor do texto do rodapé */
+
+  }
+  .redes-sociais {
+    margin-top: 10px;
+  }
+  
+  .redes-sociais a {
+    font-size: 20px;
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
